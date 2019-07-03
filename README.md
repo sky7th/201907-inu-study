@@ -18,13 +18,3 @@
 ## ???? 
 - C++ ?? 
 
-
-### 20190702
-1. Git
-1. ????
-    1. array & vector
-    1. linked-list & double linked-list
-    1. stack & queue
-    1. map & hash
-    1. Heap & priority_queue
-    1. tree & btree   
